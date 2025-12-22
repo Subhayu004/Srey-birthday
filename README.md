@@ -1,8 +1,20 @@
-# Run the code below
-clone -> enter directory -> instal dependencies and modules -> run it [commands below]
+# Srey's Birthday 🎂
 
-```
+A beautiful 3D interactive birthday experience for Srey!
+
+## Features ✨
+- 🎂 3D birthday cake with candle
+- 📱 Mobile touch support
+- 🎤 Blow into mic to blow out the candle
+- 🌅 Landscape mode optimization
+- 🎉 Fireworks animation
+
+## How to Run
+
+```bash
+cd birthday
 npm install
 npm run dev
 ```
-# Srey-s-birthday
+
+Then open http://localhost:5173/ in your browser!
